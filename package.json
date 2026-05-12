@@ -1,0 +1,13 @@
+{
+  "name": "crud-peliculas",
+  "version": "1.0.0",
+  "description": "Aplicación CRUD de películas con base de datos SQLite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
